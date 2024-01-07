@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    background-image: url('images/Banner\ Image.png');
+    width: 1300px;
+    height: 600px;
+    border-radius: 15px;
+    margin: 50px 150px;
+
+}
+.container{
+    padding:175px 340px;
+
+
+}
+.container h4{
+color: #FFF;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+margin-bottom: 15px;
+}
+.container h1{
+color: #FFF;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px; 
+}
