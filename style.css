@@ -1,14 +1,23 @@
+:root {
+    --Inter: 'Inter', sans-serif;
+    --Merriweather: 'Merriweather', serif;
+    
+  }
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/* banner styles  */
 .banner{
-    background-image: url('images/Banner\ Image.png');
+    background-color: green;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Banner\ Image.png');
     width: 1300px;
     height: 600px;
     border-radius: 15px;
     margin: 50px 150px;
+    
 
 }
 .container{
@@ -22,6 +31,7 @@ text-align: center;
 font-size: 32px;
 font-weight: 400;
 margin-bottom: 15px;
+font-family: var(Merriweather);
 }
 .container h1{
 color: #FFF;
@@ -29,4 +39,37 @@ text-align: center;
 font-size: 72px;
 font-weight: 900;
 line-height: 95px; 
+font-family: var(Merriweather);
+}
+
+/* 65% OFF section styles */
+.offer-section h1{
+color: #F00;
+text-align: center;
+font-family: var(Inter);
+font-size: 88px;
+font-weight: 700;
+}
+.offer-section h4{
+color: #F00;
+text-align: center;
+font-family: var(Inter);
+font-size: 24px;
+font-weight: 500;
+margin-top: 45px;
+margin-bottom: 15px;
+}
+.offer-section h2{
+color: #070211;
+text-align: center;
+font-family: var(Inter);
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 48px;
+}
+.offer-section img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
 }
