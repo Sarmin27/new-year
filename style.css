@@ -11,7 +11,7 @@
 }
 /* banner styles  */
 .banner{
-    background-color: green;
+    /* background-color: green; */
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Banner\ Image.png');
     width: 90%;
     margin:0 auto;
@@ -23,8 +23,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
-    
 
 }
 
@@ -78,3 +76,4 @@ margin-bottom: 48px;
     width: 100%;
     height: auto;
 }
+/* event section styles */
