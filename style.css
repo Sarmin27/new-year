@@ -27,20 +27,20 @@
 }
 
 .banner .container h4{
-color: #FFF;
-text-align: center;
-font-size: 32px;
-font-weight: 400;
-margin-bottom: 15px;
-font-family: var(--Merriweather);
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    font-family: var(--Merriweather);
 }
 .banner .container h1{
-color: #FFF;
-text-align: center;
-font-size: 72px;
-font-weight: 900;
-line-height: 95px; 
-font-family: var(--Merriweather);
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px; 
+    font-family: var(--Merriweather);
 }
 
 /* 65% OFF section styles */
@@ -49,29 +49,29 @@ font-family: var(--Merriweather);
     margin: 0 auto;
 }
 .offer-section h1{
-color: #F00;
-text-align: center;
-font-family: var(--Inter);
-font-size: 88px;
-font-weight: 700;
-margin-top: 75px;
+    color: #F00;
+    text-align: center;
+    font-family: var(--Inter);
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 75px;
 }
 .offer-section h4{
-color: #F00;
-text-align: center;
-font-family:var(--Inter);
-font-size: 24px;
-font-weight: 500;
-margin-top: 45px;
-margin-bottom: 15px;
+    color: #F00;
+    text-align: center;
+    font-family:var(--Inter);
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 45px;
+    margin-bottom: 15px;
 }
 .offer-section h2{
-color: #070211;
-text-align: center;
-font-family: var(--Inter);
-font-size: 48px;
-font-weight: 700;
-margin-bottom: 48px;
+   color: #070211;
+   text-align: center;
+   font-family: var(--Inter);
+   font-size: 48px;
+   font-weight: 700;
+   margin-bottom: 48px;
 }
 .offer-section img{
     width: 100%;
@@ -96,30 +96,30 @@ margin-bottom: 48px;
 }
 
 .midnight-party .midnight-party-container h1{
-color: #FFF;
-font-family:var(--Merriweather);
-font-size: 64px;
-font-weight: 900;
-line-height: 88px; 
-letter-spacing: 7.04px;
+    color: #FFF;
+    font-family:var(--Merriweather);
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px; 
+    letter-spacing: 7.04px;
 }
 .midnight-party .midnight-party-container p{
-color: rgba(255, 255, 255, 0.80);
-font-family: var(--Inter);
-font-size: 18px;
-font-weight: 400;
-line-height: 30px;
-margin-bottom: 50px; 
+    color: rgba(255, 255, 255, 0.80);
+    font-family: var(--Inter);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 50px; 
 }
 .midnight-party .midnight-party-container a{
-color: #FFF;
+    color:#FFF;
 /* text-align: center; */
-font-family: var(--Inter);
-font-size: 20px;
-font-weight: 700;
-text-transform: uppercase;
-text-decoration: none;
-margin-left: 40px;
+    font-family: var(--Inter);
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px;
 }
 /* event section styles */
 .event{
@@ -138,35 +138,35 @@ margin-left: 40px;
     text-align: center;   
 }
 .event .event-container h4{
-color: #F00;
-font-family:var(--Inter);
-font-size: 32px;
-font-weight: 600;
-line-height: 56px;
-text-transform: capitalize;
+    color: #F00;
+    font-family:var(--Inter);
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
 
 }
 .event .event-container span{
-color: #070211;
-font-family:var(--Inter);
-font-size: 32px;
-font-weight: 600;
-line-height: 56px;
-text-transform: capitalize;
+    color: #070211;
+    font-family:var(--Inter);
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
 
 }
 .event .event-container button{
-color: #FFF;
-text-align: center;
-font-family:var(--Inter);
-font-size: 20px;
-font-weight: 700;
-text-transform: uppercase;
-border-radius: 8px;
-border: none;
-background: #F00;
-padding: 16px 32px;
-margin-top: 40px;
+    color: #FFF;
+    text-align: center;
+    font-family:var(--Inter);
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    border: none;
+    background: #F00;
+    padding: 16px 32px;
+    margin-top: 40px;
 }
 /* new best offer section styles  */
 .new-best-offer{
@@ -176,30 +176,26 @@ margin-top: 40px;
     width: 90%;
     margin:0 auto;
 }
-.column1{
-    /* align-items: start; */
-   
-}
 .new-best-offer .column1 h5{
-color: #F00;
-font-family:var(--Inter);
-font-size: 24px;
-font-weight: 500;
+    color: #F00;
+    font-family:var(--Inter);
+    font-size: 24px;
+    font-weight: 500;
 }
 .new-best-offer .column1 h2{
-color: #070211;
-font-family: var(--Merriweather);
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
+    color: #070211;
+    font-family: var(--Merriweather);
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
 }
 .primary-pera{
-color: rgba(7, 2, 17, 0.60);
-font-family:var(--Inter);
-font-size: 20px;
-font-weight: 400;
-line-height: 32px; 
-max-width:393px;;
+    color: rgba(7, 2, 17, 0.60);
+    font-family:var(--Inter);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+    max-width:393px;;
 }
 .new-best-offer .column2{
     margin-left:15px;
@@ -211,12 +207,48 @@ max-width:393px;;
     padding:50px;
 }
 .new-best-offer .column3 h2{
-color: #F00;
-font-family:var(--Inter);
-font-size: 48px;
-font-weight: 700;
+    color: #F00;
+    font-family:var(--Inter);
+    font-size: 48px;
+    font-weight: 700;
 }
 .new-best-offer .column3 img{
     width: 140px;
     height: 140px;
 }
+/* Portfolio section styles */
+.Portfolio-section {
+    margin: 0 auto;
+    width: 90%;
+    margin-top:75px;
+}
+.Portfolio-section .portfolio h5{
+    color: #F00;
+    font-family:var(--Inter);
+    font-size: 24px;
+    font-weight: 500;
+}
+.Portfolio-section .portfolio h2{
+    color: #070211;
+    font-family:var(--Merriweather);
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.Portfolio-section .row .row1 ,
+.Portfolio-section .row .row2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    
+}
+.Portfolio-section .row .row1 img,
+.Portfolio-section .row .row2 img{
+    max-width: 380px;
+    min-height: 400px;
+}
+
+
+
+
+
