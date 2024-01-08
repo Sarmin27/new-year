@@ -78,8 +78,8 @@ margin-bottom: 48px;
     height: auto;
     margin-bottom:75px;
 }
-/* event section styles */
-.event{
+/* midnight party styles */
+.midnight-party{
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Vectorrr.png');
     background-size:cover;
     background-position: center;
@@ -93,10 +93,8 @@ margin-bottom: 48px;
     border-radius: 15px;
     padding: 75px;
 }
-.event-container{
-    /* padding:150px;   */
-}
-.event .event-container h1{
+
+.midnight-party .midnight-party-container h1{
 color: #FFF;
 font-family:var(--Merriweather);
 font-size: 64px;
@@ -104,7 +102,7 @@ font-weight: 900;
 line-height: 88px; 
 letter-spacing: 7.04px;
 }
-.event .event-container p{
+.midnight-party .midnight-party-container p{
 color: rgba(255, 255, 255, 0.80);
 font-family: var(--Inter);
 font-size: 18px;
@@ -112,7 +110,7 @@ font-weight: 400;
 line-height: 30px;
 margin-bottom: 50px; 
 }
-.event .event-container a{
+.midnight-party  .midnight-party-container a{
 color: #FFF;
 /* text-align: center; */
 font-family: var(--Inter);
@@ -121,6 +119,4 @@ font-weight: 700;
 text-transform: uppercase;
 text-decoration: none;
 margin-left: 40px;
-
-
 }
