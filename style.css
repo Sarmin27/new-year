@@ -26,7 +26,7 @@
 
 }
 
-.container h4{
+.banner .container h4{
 color: #FFF;
 text-align: center;
 font-size: 32px;
@@ -34,7 +34,7 @@ font-weight: 400;
 margin-bottom: 15px;
 font-family: var(--Merriweather);
 }
-.container h1{
+.banner .container h1{
 color: #FFF;
 text-align: center;
 font-size: 72px;
@@ -54,6 +54,7 @@ text-align: center;
 font-family: var(--Inter);
 font-size: 88px;
 font-weight: 700;
+margin-top: 75px;
 }
 .offer-section h4{
 color: #F00;
@@ -75,5 +76,51 @@ margin-bottom: 48px;
 .offer-section img{
     width: 100%;
     height: auto;
+    margin-bottom:75px;
 }
 /* event section styles */
+.event{
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('images/Vectorrr.png');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px; 
+    width: 90%;
+    margin:0 auto;
+    border-radius: 15px;
+    padding: 75px;
+}
+.event-container{
+    /* padding:150px;   */
+}
+.event .event-container h1{
+color: #FFF;
+font-family:var(--Merriweather);
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.event .event-container p{
+color: rgba(255, 255, 255, 0.80);
+font-family: var(--Inter);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 50px; 
+}
+.event .event-container a{
+color: #FFF;
+/* text-align: center; */
+font-family: var(--Inter);
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+text-decoration: none;
+margin-left: 40px;
+
+
+}
